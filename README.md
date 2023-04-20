@@ -1,3 +1,3 @@
-# FINM 32000 - Homework (Spring 2023)
+# FINM 32000 - Homework 
 
-Numerical Methods
+Numerical Methods (Spring 2023)
